@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     fontSize: 24, 
     color: 'blue', 
     fontWeight: 'bold', 
-    marginBottom: 50, // Jarak bawah untuk teks dan kotak
+    marginBottom: 50, 
   },
   flexContainer: {
     flexDirection: 'row', 
